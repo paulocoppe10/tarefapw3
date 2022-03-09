@@ -1,0 +1,340 @@
+CRITICAL - 2022-03-09 11:18:09 --> Invalid file: quemsomos.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quemsomos.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('quemsomos', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('quemsomos')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('quemsomos')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:18:12 --> Invalid file: quemsomos.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quemsomos.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('quemsomos', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('quemsomos')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('quemsomos')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:18:15 --> Invalid file: home.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('home')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('home')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:18:23 --> Invalid file: home.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('home')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('home')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:18:28 --> Invalid file: quemsomos.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quemsomos.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('quemsomos', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('quemsomos')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('quemsomos')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:20:24 --> Invalid file: home.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('home')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('home')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:20:26 --> Invalid file: home.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('home')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('home')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:21:27 --> Invalid file: quemsomos.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quemsomos.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('quemsomos', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('quemsomos')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('quemsomos')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:23:11 --> Invalid file: quemsomos.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quemsomos.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('quemsomos', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('quemsomos')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('quemsomos')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:44:42 --> Invalid file: img.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('img.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('img', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('img')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:10 --> Invalid file: Views.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('Views', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('Views')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('Views', 'img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:10 --> Invalid file: Views.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('Views', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('Views')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('Views', 'img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:10 --> Invalid file: Views.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('Views', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('Views')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('Views', 'img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:11 --> Invalid file: Views.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('Views', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('Views')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('Views', 'img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:47 --> Invalid file: img.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('img.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('img', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('img')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:48 --> Invalid file: img.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('img.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('img', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('img')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:48 --> Invalid file: img.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('img.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('img', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('img')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:48 --> Invalid file: img.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('img.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('img', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('img')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:45:48 --> Invalid file: img.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('img.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('img', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('img')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('img', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:46:26 --> Invalid file: img.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('img.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('img', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('img')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('img', 'Logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:47:58 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:45 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:46 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:47 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:48 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:48 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:49 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:50 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:50 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:51 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:52 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:52 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:51:53 --> Invalid file: imagens.php
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
+CRITICAL - 2022-03-09 11:55:24 --> Invalid file: logo.jpg
+#0 C:\wamp64\www\licaopw\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('logo.jpg')
+#1 C:\wamp64\www\licaopw\system\Common.php(1089): CodeIgniter\View\View->render('logo.jpg', Array, true)
+#2 C:\wamp64\www\licaopw\app\Controllers\Home.php(16): view('logo.jpg')
+#3 C:\wamp64\www\licaopw\system\CodeIgniter.php(832): App\Controllers\Home->page('logo.jpg')
+#4 C:\wamp64\www\licaopw\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\licaopw\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\licaopw\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\licaopw\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\l...')
+#8 {main}
