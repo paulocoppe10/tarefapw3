@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col">
                 <img src="<?=base_url()?>/img/logo.jpg" id="logo">
-                <h1 id="nome">seja bem vindo a Coppe cars</h1>
+                <h1 id="nome">seja bem vindo a TOP cars</h1>
             </div>
         </div>
       <div class="row">

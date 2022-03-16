@@ -1,0 +1,1300 @@
+CRITICAL - 2022-03-16 11:58:59 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'portuguescapa3....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 11:58:59 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'culpaedasestrel...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 11:58:59 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'paratodos.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 11:59:00 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'barracadobeijo....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:03:32 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'portuguescapa3....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:03:32 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'culpaedasestrel...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:03:32 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'paratodos.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:03:32 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'barracadobeijo....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:09:08 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'portuguescapa3....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:09:08 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'culpaedasestrel...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:09:08 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'paratodos.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:09:08 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'barracadobeijo....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:09:19 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', '.png')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:16:29 --> Invalid file: livros.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('livros.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('livros', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('livros')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('livros', 'novaspalavras3....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:32:47 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:32:47 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:32:48 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:32:48 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:35:43 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:35:43 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:35:45 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:35:45 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:35:46 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:35:46 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:01 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:01 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:02 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:02 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:02 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:02 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:02 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:02 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:41 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:41 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:41 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:41 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:42 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:42 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:42 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:36:42 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:19 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:19 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:20 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:20 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:21 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:21 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:21 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:21 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:21 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:38:21 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:41:59 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:41:59 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:42:00 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:42:00 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:42:37 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:42:37 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:42:38 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:42:38 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:42:38 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:42:38 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:43:53 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:43:53 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:44:12 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:44:13 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:44:36 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:44:36 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:44:56 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:44:56 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:45:23 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:45:23 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:46:00 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:46:00 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:46:37 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:46:37 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:46:55 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:46:56 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:47:05 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:47:06 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:47:32 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:47:32 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:47:46 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:47:46 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:47:55 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:47:55 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:55:03 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 12:55:03 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'portuguescapa2....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'correroumorrer....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'provadefogo.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'curamortal.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'ordemdeextermin...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'arquivos.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'ladraoderaios.j...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'mardemonstros.j...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'batalhadolabiri...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'portuguescapa3....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'maldicaodotitan...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'ultimoolimpiano...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'culpaedasestrel...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'paratodos.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'barracadobeijo....')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:55 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'orgulhoepreconc...')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:56 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'comoeuera.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:56 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'exorcista.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:56 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'vilarejo.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:56 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'iluminado.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:56 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'bebe.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:02:56 --> Invalid file: imagens.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('imagens.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('imagens', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('imagens')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('imagens', 'horror.jpg')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:04:45 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:04:45 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:05:40 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:05:40 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:05:55 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:05:55 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:06:04 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:06:04 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:06:51 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:06:51 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:08:11 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:08:11 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:08:42 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:08:42 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:08:58 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:08:58 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:09:09 --> Invalid file: livros.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('livros.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('livros', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('livros')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('livros', '.zip')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:09:10 --> Invalid file: livros.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('livros.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('livros', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('livros')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('livros', 'principal')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:10:02 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:10:02 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:10:11 --> Invalid file: css.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('css')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('css', 'index.css')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
+CRITICAL - 2022-03-16 13:10:11 --> Invalid file: js.php
+#0 C:\wamp64\www\tarefapw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\tarefapw3\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\tarefapw3\app\Controllers\Home.php(16): view('js')
+#3 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(832): App\Controllers\Home->page('js', 'index.js')
+#4 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\tarefapw3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\tarefapw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\tarefapw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\t...')
+#8 {main}
