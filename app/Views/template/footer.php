@@ -1,7 +1,12 @@
 <!--inicio do footer-->
+<style type="text/css">
+    #direitos{
+        color: white;
+    }
+    </style>
 <div class="row">
             <div class="col">
-                <p>todos os direitos reservados<p>
+                <h9 id="direitos" >todos os direitos reservados<h9>
             </div>
         </div> 
     </div>
