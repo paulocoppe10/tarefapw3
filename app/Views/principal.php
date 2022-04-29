@@ -11,6 +11,7 @@
     #cor{
     background-color: rgb(36, 36, 36);
     color:white;
+    
     }
         </style>
 
