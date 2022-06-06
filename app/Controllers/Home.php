@@ -33,21 +33,20 @@ class Home extends BaseController
 
     public function cadastro(){
         echo view('template/header');
-        echo view('login');
+        echo view('cadastroveiculo');
         echo view('template/footer');
     }
-
-    public function create(){
+    public function gravar(){
         $model = new VeiculoModel();
 
         $model->save([
-            'id'        =>  $this->request->getVar('id'),
-            'modelo'     =>  $this->request->getVar('modelo'),
-            'marca'    =>  $this->request->getVar('marca'),
-            'ano'     =>  $this->request->getVar('ano')
+            'id' => $this->request->getVar('id'),
+            'modelo' => $this->request->getVar('modelo'),
+            'marca' => $this->request->getVar('marca'),
+            'ano' => $this->request->getVar('ano')
         ]);
 
-        return redirect("veiculo");
+        return redirect('veiculo');
     }
 
     public function excluir($id = null){
@@ -60,11 +59,12 @@ class Home extends BaseController
         $model = new VeiculoModel();
 
         $data = [
-            'veiculo'    =>  $model->getVeiculo($id),
+            'veiculo' => $model->getVeiculo($id)
         ];
 
         echo view('template/header');
-        echo view('login', $data);
+        echo view('cadastroveiculo',$data);
         echo view('template/footer');
     }
+
 }

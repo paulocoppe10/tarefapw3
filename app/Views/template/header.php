@@ -39,7 +39,7 @@
                 <div class="navbar-nav">
                     <a class="nav-link" href="quemsomos">quemsomos</a>
                     <a class="nav-link" href="contato">contato</a>
-                    <a class="nav-link" href="login">login</a>
+                    <a class="nav-link" href="cadastroveiculo">cadastrar veiculo</a>
                     <a class="nav-link" href="veiculo">veiculo</a>
                 </div>
                 </div>
@@ -47,4 +47,3 @@
             </nav>
         </div>
       </div>
-        <!--fim do header-->
