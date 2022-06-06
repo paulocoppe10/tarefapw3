@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Controllers;
+use App\Models\VeiculoModel;
 
 class Home extends BaseController
 {
@@ -11,9 +12,59 @@ class Home extends BaseController
         echo view('template/footer');
     }
 
-public function page($page='principal'){
+    public function page($page='principal'){
         echo view('template/header');
         echo view($page);        
         echo view('template/footer');   
+    }
+
+    public function veiculo(){
+        $model = new VeiculoModel();
+
+        $data = [
+            'title'     =>  'Veículos',
+            'veiculo'   =>  $model->getVeiculos(),
+        ];
+
+        echo view('template/header');
+        echo view('veiculo', $data);
+        echo view('template/footer');
+    }
+
+    public function cadastro(){
+        echo view('template/header');
+        echo view('login');
+        echo view('template/footer');
+    }
+
+    public function create(){
+        $model = new VeiculoModel();
+
+        $model->save([
+            'id'        =>  $this->request->getVar('id'),
+            'modelo'     =>  $this->request->getVar('modelo'),
+            'marca'    =>  $this->request->getVar('marca'),
+            'ano'     =>  $this->request->getVar('ano')
+        ]);
+
+        return redirect("veiculo");
+    }
+
+    public function excluir($id = null){
+        $model = new VeiculoModel();
+        $model->delete($id);
+        return redirect("veiculo");
+    }
+
+    public function editar($id = null){
+        $model = new VeiculoModel();
+
+        $data = [
+            'veiculo'    =>  $model->getVeiculo($id),
+        ];
+
+        echo view('template/header');
+        echo view('login', $data);
+        echo view('template/footer');
     }
 }

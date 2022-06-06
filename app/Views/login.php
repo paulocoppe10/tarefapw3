@@ -28,10 +28,12 @@
     <div class="container">
         <div class="row align-items-center">
             <div id=".">
-                <input id="escrita" class="form-control me-2" type="search" placeholder="Usuario" aria-label="Usuario">
-                 <input id="escrita" class="form-control me-2" type="search" placeholder="Email" aria-label="Email">
-                  <input id="escrita" class="form-control me-2" type="search" placeholder="Senha" aria-label="Senha">
-                <button id="login" type="button" class="btn btn-primary">login</button>
+            <form class="col-10" method="post" action="create">
+                <input id="escrita" name="modelo" class="form-control me-2" type="text" placeholder="modelo" aria-label="modelo">
+                 <input id="escrita" name="marca" class="form-control me-2" type="text" placeholder="marca" aria-label="marca">
+                  <input id="escrita" name="ano" class="form-control me-2" type="text" placeholder="ano" aria-label="ano">
+                <button id="login" class="btn btn-primary">login</button>
+            </form>
             </div>
         </div>
     </div>
