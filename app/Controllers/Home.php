@@ -2,6 +2,7 @@
 
 namespace App\Controllers;
 use App\Models\VeiculoModel;
+use App\Models\PessoasModel;
 
 class Home extends BaseController
 {
@@ -65,6 +66,62 @@ class Home extends BaseController
         echo view('template/header');
         echo view('cadastroveiculo',$data);
         echo view('template/footer');
+    }
+
+
+
+
+    public function pessoas(){
+        $model = new PessoasModel();
+
+        $data = [
+            'title'=>'Pessoas',
+            'pessoas'=>$model->getPessoas(),
+            'session' =>\Config\Services::session()
+        ];
+
+        if(!$data['session']->get('logado')){
+            return redirect("login");
+        }
+
+        echo view('template/header');
+        echo view('pessoa',$data);
+        echo view('template/footer');
+    }
+
+
+    public function login(){
+        echo view('template/header');
+        echo view('login');
+        echo view('template/footer');
+    }
+
+    public function logar(){
+       $model = new PessoasModel();
+
+        $senha = $this->request->getVar("senha");
+        $nome = $this->request->getVar("nome");
+
+        $data['usuario'] = $model->userLogin($nome, $senha);
+        $data['session'] = \Config\Services::session();
+
+        if(empty($data['usuario'])){
+            return redirect("login");
+        }else{
+            $sessionData = [
+               'usuario' => $nome,
+               'logado' => TRUE
+            ];
+            $data['session']->set($sessionData);
+            return redirect("veiculo");
+
+        }
+    }
+
+    public function sair(){       
+        $data['session'] = \Config\Services::session();       
+        $data['session']->destroy();
+        return redirect("login");      
     }
 
 }

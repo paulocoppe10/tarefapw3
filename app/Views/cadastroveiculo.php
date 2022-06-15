@@ -1,6 +1,6 @@
 <div class="row">
         <div class="col">
-            <h2>Cadastro de Pessoas</h2>
+            <h2>Cadastro de Veiculos</h2>
         </div>
     </div>
 
